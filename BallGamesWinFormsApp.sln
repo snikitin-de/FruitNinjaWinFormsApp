@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common\Common.csproj", "{0DEBA7D5-EB71-44CC-8BE6-2200B163D60C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FruitNinjaWinFormsApp", "FruitNinjaWinFormsApp\FruitNinjaWinFormsApp.csproj", "{93DBDA3E-EF40-4783-806E-6104C26A74C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DEBA7D5-EB71-44CC-8BE6-2200B163D60C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEBA7D5-EB71-44CC-8BE6-2200B163D60C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DEBA7D5-EB71-44CC-8BE6-2200B163D60C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DEBA7D5-EB71-44CC-8BE6-2200B163D60C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93DBDA3E-EF40-4783-806E-6104C26A74C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93DBDA3E-EF40-4783-806E-6104C26A74C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93DBDA3E-EF40-4783-806E-6104C26A74C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93DBDA3E-EF40-4783-806E-6104C26A74C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF819DDA-CF72-4B2F-9A50-60CBA1074F60}
+	EndGlobalSection
+EndGlobal
